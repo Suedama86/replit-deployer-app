@@ -1,0 +1,5 @@
+{
+  "name": "Replit Project Deployer",
+  "description": "An application that takes a Replit project zip file, analyzes its configuration, and generates a deployment plan and configuration files for hosting on modern cloud platforms like Render.com using Gemini.",
+  "requestFramePermissions": []
+}
